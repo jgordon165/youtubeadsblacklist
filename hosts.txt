@@ -8880,3 +8880,7 @@
 0.0.0.0 r6.sn-vgqskn7z.googlevideo.com
 0.0.0.0 r18---sn-o097znes.googlevideo.com
 0.0.0.0 r4---sn-n4v7sn7s.googlevideo.com
+0.0.0.0 r1—sn-hp57ynel.googlevideo.com
+0.0.0.0 r4—sn-p5qlsndk.googlevideo.com
+0.0.0.0 r12.sn-bvvbax-hn26.googlevideo.com
+0.0.0.0 r1.sn-5hne6n7e.googlevideo.com
